@@ -1,4 +1,4 @@
-<mxfile modified="2022-03-04T05:41:58.651Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="Prw2Fs16jLEYJyELmge-" version="16.6.5" type="github">
+<mxfile modified="2022-03-04T05:47:10.323Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="SvPY5Acz2FvY_TB0xTi6" version="16.6.5" type="github">
   <diagram id="WI9T0HZ2pTsCkuznbFz-" name="Page-1">
     <mxGraphModel dx="993" dy="587" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -165,8 +165,8 @@
         <mxCell id="KFFGUHIh-ZLJzB-CHe2z-29" value="&lt;span&gt;驗證使用者合法權限&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="779" y="760" width="296" height="44.12" as="geometry" />
         </mxCell>
-        <mxCell id="KFFGUHIh-ZLJzB-CHe2z-30" value="&lt;span&gt;透過跳版機IP-guard安控去存取獨立的雲端T24沙盒環境&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="779" y="815.88" width="296" height="46.12" as="geometry" />
+        <mxCell id="KFFGUHIh-ZLJzB-CHe2z-30" value="&lt;span&gt;透過IP-guard安控去存取獨立的雲端T24沙盒環境&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="779" y="815.88" width="321" height="46.12" as="geometry" />
         </mxCell>
         <mxCell id="KFFGUHIh-ZLJzB-CHe2z-31" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#4D9900;strokeColor=none;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="745" y="702.5" width="23" height="23" as="geometry" />
