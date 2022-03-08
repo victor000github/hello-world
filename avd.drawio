@@ -1,4 +1,4 @@
-<mxfile modified="2022-03-08T10:35:47.706Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="D5QSg1nX-bHtxyonHijJ" version="16.6.7" type="github">
+<mxfile modified="2022-03-08T10:49:11.296Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="DuEFHQtZrUo4qT6mKCTr" version="16.6.7" type="github">
   <diagram id="WI9T0HZ2pTsCkuznbFz-" name="Page-1">
     <mxGraphModel dx="1193" dy="587" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -295,7 +295,7 @@
         <mxCell id="KFFGUHIh-ZLJzB-CHe2z-71" value="4" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#4D9900;strokeColor=none;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="428.5" y="1051" width="23" height="23" as="geometry" />
         </mxCell>
-        <mxCell id="KFFGUHIh-ZLJzB-CHe2z-73" value="透過堡壘機中的mobaxterm及browser去存取獨立的地端" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" parent="1" vertex="1">
+        <mxCell id="KFFGUHIh-ZLJzB-CHe2z-73" value="透過堡壘機中的mobaxterm及browser去存取獨立的地端&lt;span style=&quot;font-size: 12pt ; font-family: &amp;#34;calibri&amp;#34;&quot;&gt;T24&lt;/span&gt;&lt;span style=&quot;font-size: 12pt&quot;&gt;沙箱&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="1104" y="525" width="366" height="59.43" as="geometry" />
         </mxCell>
         <mxCell id="RUdyyS04vA0CPSo_Z_gt-3" value="Hub Virtual Network" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" parent="1" vertex="1">
@@ -404,6 +404,33 @@
         </mxCell>
         <mxCell id="RUdyyS04vA0CPSo_Z_gt-40" value="4" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#4D9900;strokeColor=none;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="1273" y="880" width="23" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="fj1gGgNy0eAuGI-fnEVn-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EAEDED;fontSize=22;fontColor=#FFFFFF;strokeColor=none;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="81.25999999999999" width="445" height="235" as="geometry" />
+        </mxCell>
+        <mxCell id="fj1gGgNy0eAuGI-fnEVn-2" value="由T24的AP人員負責啟用帳號及產生AAD登入密碼提供給T24外部廠商人員,使用者直接經由Azure Portal進行MFA雙因子初始綁定及驗證" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1214" y="95.25999999999999" width="361" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="fj1gGgNy0eAuGI-fnEVn-3" value="&lt;span&gt;驗證使用者合法權限&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1214" y="161.26" width="296" height="44.12" as="geometry" />
+        </mxCell>
+        <mxCell id="fj1gGgNy0eAuGI-fnEVn-4" value="&lt;span style=&quot;font-size: 12pt&quot;&gt;透過&lt;/span&gt;&lt;span style=&quot;font-size: 12pt ; font-family: &amp;#34;calibri&amp;#34;&quot;&gt;IP-guard&lt;/span&gt;&lt;span style=&quot;font-size: 12pt&quot;&gt;安控去存取獨立的堡壘機&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1214" y="212.14" width="321" height="46.12" as="geometry" />
+        </mxCell>
+        <mxCell id="fj1gGgNy0eAuGI-fnEVn-5" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#4D9900;strokeColor=none;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="98.75999999999999" width="23" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="fj1gGgNy0eAuGI-fnEVn-6" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#4D9900;strokeColor=none;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="158.26" width="23" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="fj1gGgNy0eAuGI-fnEVn-7" value="3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#4D9900;strokeColor=none;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="212.14" width="23" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="fj1gGgNy0eAuGI-fnEVn-8" value="4" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#4D9900;strokeColor=none;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="258.26" width="23" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="fj1gGgNy0eAuGI-fnEVn-9" value="&lt;p style=&quot;margin-top: 4.32pt ; margin-bottom: 0pt ; direction: ltr ; unicode-bidi: embed ; vertical-align: baseline&quot;&gt;&lt;span style=&quot;font-size: 12pt&quot;&gt;透過&lt;/span&gt;&lt;span style=&quot;font-size: 12pt ; font-family: &amp;#34;calibri&amp;#34;&quot;&gt;AMMP&lt;/span&gt;&lt;span style=&quot;font-size: 12pt&quot;&gt;部署遷移&lt;/span&gt;&lt;span style=&quot;font-size: 12pt ; font-family: &amp;#34;calibri&amp;#34;&quot;&gt;T24&lt;/span&gt;&lt;span style=&quot;font-size: 12pt&quot;&gt;沙箱至雲端&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1214" y="256.26" width="366" height="59.43" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
