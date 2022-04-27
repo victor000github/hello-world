@@ -1,6 +1,6 @@
-<mxfile modified="2022-03-31T12:06:25.076Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36" etag="DzqlZd5mworlo8ZkNdIX" version="17.3.0" type="github">
+<mxfile modified="2022-04-27T02:43:54.531Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="UDo_21A0m_MQkSfRlPA1" version="17.4.6" type="github">
   <diagram id="WI9T0HZ2pTsCkuznbFz-" name="Page-1">
-    <mxGraphModel dx="1082" dy="507" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1231" dy="583" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -394,7 +394,7 @@
         <mxCell id="RUdyyS04vA0CPSo_Z_gt-34" value="MFA" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.multi_factor_authentication;pointerEvents=1;labelBackgroundColor=none;fontSize=14;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="893.25" y="802.38" width="25" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="RUdyyS04vA0CPSo_Z_gt-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;startArrow=none;startFill=1;strokeColor=#808080;" parent="1" target="rYsjbnjLWIEjAzCpw-MW-5" edge="1" source="jaKhmesQxGNKAlyMqy8P-1">
+        <mxCell id="RUdyyS04vA0CPSo_Z_gt-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;startArrow=none;startFill=1;strokeColor=#808080;" parent="1" source="jaKhmesQxGNKAlyMqy8P-1" target="rYsjbnjLWIEjAzCpw-MW-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1360" y="1060" as="sourcePoint" />
             <Array as="points" />
@@ -453,10 +453,10 @@
         <mxCell id="rYsjbnjLWIEjAzCpw-MW-1" value="Peering" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#232F3E;fillColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.peering;" parent="1" vertex="1">
           <mxGeometry x="1269.5" y="850" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="jaKhmesQxGNKAlyMqy8P-1" value="FireWall" style="image;html=1;image=img/lib/clip_art/networking/Firewall_02_128x128.png" vertex="1" parent="1">
+        <mxCell id="jaKhmesQxGNKAlyMqy8P-1" value="FireWall" style="image;html=1;image=img/lib/clip_art/networking/Firewall_02_128x128.png" parent="1" vertex="1">
           <mxGeometry x="1226.25" y="1036.37" width="51.5" height="48.63" as="geometry" />
         </mxCell>
-        <mxCell id="jaKhmesQxGNKAlyMqy8P-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;startArrow=classic;startFill=1;strokeColor=#808080;endArrow=none;" edge="1" parent="1" target="jaKhmesQxGNKAlyMqy8P-1">
+        <mxCell id="jaKhmesQxGNKAlyMqy8P-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;startArrow=classic;startFill=1;strokeColor=#808080;endArrow=none;" parent="1" target="jaKhmesQxGNKAlyMqy8P-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1360" y="1060" as="sourcePoint" />
             <Array as="points">
@@ -465,7 +465,7 @@
             <mxPoint x="1200" y="878.05" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jaKhmesQxGNKAlyMqy8P-3" value="VM machine" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/VM_Windows_Non_Azure.svg;" vertex="1" parent="1">
+        <mxCell id="jaKhmesQxGNKAlyMqy8P-3" value="VM machine" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/VM_Windows_Non_Azure.svg;" parent="1" vertex="1">
           <mxGeometry x="1056.5" y="1051" width="50" height="46" as="geometry" />
         </mxCell>
       </root>
