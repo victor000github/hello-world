@@ -1,4 +1,4 @@
-<mxfile modified="2022-04-27T03:13:45.788Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="1jrsUjZpXedIO_2GAcIN" version="17.4.6" type="github">
+<mxfile modified="2022-04-27T03:15:57.815Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="GLxCvIrcSFlRnMePZV1b" version="17.4.6" type="github">
   <diagram id="WI9T0HZ2pTsCkuznbFz-" name="Page-1">
     <mxGraphModel dx="1026" dy="486" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -212,7 +212,7 @@
         <mxCell id="KFFGUHIh-ZLJzB-CHe2z-29" value="&lt;span&gt;驗證使用者合法權限&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="1104" y="427" width="296" height="44.12" as="geometry" />
         </mxCell>
-        <mxCell id="KFFGUHIh-ZLJzB-CHe2z-30" value="&lt;span style=&quot;font-size: 12pt&quot;&gt;透過&lt;/span&gt;&lt;span style=&quot;font-size: 12pt ; font-family: &amp;#34;calibri&amp;#34;&quot;&gt;IP-guard&lt;/span&gt;&lt;span style=&quot;font-size: 12pt&quot;&gt;安控去存取獨立的堡壘機&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" parent="1" vertex="1">
+        <mxCell id="KFFGUHIh-ZLJzB-CHe2z-30" value="&lt;span style=&quot;font-size: 12pt ; font-family: &amp;#34;calibri&amp;#34;&quot;&gt;IP-guard&lt;/span&gt;&lt;span style=&quot;font-size: 12pt&quot;&gt;安控會進行側錄&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="1104" y="480.88" width="321" height="46.12" as="geometry" />
         </mxCell>
         <mxCell id="KFFGUHIh-ZLJzB-CHe2z-31" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#4D9900;strokeColor=none;labelBackgroundColor=none;" parent="1" vertex="1">
@@ -301,8 +301,8 @@
         <mxCell id="KFFGUHIh-ZLJzB-CHe2z-71" value="4" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#4D9900;strokeColor=none;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="428.5" y="1051" width="23" height="23" as="geometry" />
         </mxCell>
-        <mxCell id="KFFGUHIh-ZLJzB-CHe2z-73" value="透過堡壘機中的mobaxterm及browser去存取獨立的地端&lt;span style=&quot;font-size: 12pt ; font-family: &amp;#34;calibri&amp;#34;&quot;&gt;T24&lt;/span&gt;&lt;span style=&quot;font-size: 12pt&quot;&gt;沙箱&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="1104" y="525" width="366" height="59.43" as="geometry" />
+        <mxCell id="KFFGUHIh-ZLJzB-CHe2z-73" value="透過RemoteAPP進行桌面雲登入及操作" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="1104" y="525" width="366" height="45" as="geometry" />
         </mxCell>
         <mxCell id="RUdyyS04vA0CPSo_Z_gt-3" value="Hub Virtual Network" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="322.01" y="677.29" width="128" height="22.71" as="geometry" />
@@ -401,7 +401,7 @@
           <mxGeometry x="1318.58" y="669.9999999999999" width="128" height="22.71" as="geometry" />
         </mxCell>
         <mxCell id="RUdyyS04vA0CPSo_Z_gt-40" value="4" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#4D9900;strokeColor=none;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1268" y="895" width="23" height="23" as="geometry" />
+          <mxGeometry x="1277.75" y="1074" width="23" height="23" as="geometry" />
         </mxCell>
         <mxCell id="fj1gGgNy0eAuGI-fnEVn-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EAEDED;fontSize=22;fontColor=#FFFFFF;strokeColor=none;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="1150" y="81.25999999999999" width="445" height="235" as="geometry" />
