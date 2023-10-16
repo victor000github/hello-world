@@ -1,4 +1,4 @@
-<mxfile modified="2023-10-16T01:38:19.702Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="h9mbLrsugZLPlfdwxMPg" version="22.0.4" type="github">
+<mxfile modified="2023-10-16T01:39:15.132Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="ckkPX3XQj4QkKuCCAFtZ" version="22.0.4" type="github">
   <diagram id="WI9T0HZ2pTsCkuznbFz-" name="Page-1">
     <mxGraphModel dx="1230" dy="569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -39,7 +39,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="yIlqXNv4PA9Dnh1hxRCn-23" value="Express&lt;br&gt;Route" style="aspect=fixed;html=1;perimeter=none;align=center;shadow=0;dashed=0;image;fontSize=12;image=img/lib/mscae/Express_Route.svg;" parent="1" vertex="1">
-          <mxGeometry x="690" y="492.5" width="50" height="30.5" as="geometry" />
+          <mxGeometry x="690" y="460" width="50" height="30.5" as="geometry" />
         </mxCell>
         <mxCell id="yIlqXNv4PA9Dnh1hxRCn-26" value="S2S VPN" style="aspect=fixed;html=1;perimeter=none;align=center;shadow=0;dashed=0;image;fontSize=12;image=img/lib/mscae/VPN_Gateway.svg;" parent="1" vertex="1">
           <mxGeometry x="461.5" y="460" width="45" height="50" as="geometry" />
